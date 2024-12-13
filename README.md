@@ -1,6 +1,6 @@
 # EXP 2: Fitting Poisson  distribution
-## Name : KARTHIK PADMANABAN R
-## Register number : 24001743
+## Name : Logesh.B
+## Register number : 24900577
 ## Date : 14.12.2024
 # Aim : 
 
@@ -33,8 +33,8 @@ The Poisson distribution is the discrete probability distribution of the number 
 
 # Program :
 ~~~
-Developed by : KARTHIK PADMANABAN R
-Register number : 24001743
+Developed by : Logesh.B
+Register number : 24900577
 ~~~
 ~~~
 import numpy as np
