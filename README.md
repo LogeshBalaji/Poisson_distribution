@@ -1,6 +1,5 @@
 # EXP 2: Fitting Poisson  distribution
-## Name : Logesh.B
-## Register number : 24900577
+
 ## Date : 05.10.2024
 # Aim : 
 
