@@ -1,7 +1,7 @@
 # EXP 2: Fitting Poisson  distribution
 ## Name : Logesh.B
 ## Register number : 24900577
-## Date : 14.12.2024
+## Date : 05.10.2024
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
